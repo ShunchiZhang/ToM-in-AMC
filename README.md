@@ -8,7 +8,14 @@
 
 ## :film_strip: Dataset: ToM-in-AMC
 
-Please download the data from [Google Drive](https://drive.google.com/file/d/1mXrO5DN4y0fmRnDLAiEhoVMxVyAxjaQs/view?usp=sharing).
+Please download the data from [Google Drive](https://drive.google.com/drive/folders/1y9_zP4zOaP_WPntYQuXJXOdtv72POGg_?usp=sharing).
+
+```sh
+gdown --folder 1y9_zP4zOaP_WPntYQuXJXOdtv72POGg_ -O data
+# SHA256: 551a726269cf9d6149d32b7712230111ddd4f43ac8ea461edd9456c8527711ad
+```
+
+and run [`dataset_overview.ipynb`](/dataset_overview.ipynb) for details.
 
 The dataset consists of ∼1,000 parsed movie scripts from [IMSDb](https://imsdb.com), each corresponding to a few-shot character understanding task.
 
