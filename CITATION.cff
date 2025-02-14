@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+preferred-citation:
+  type: conference-paper
+  title: "Few-Shot Character Understanding in Movies as an Assessment to Meta-Learning of Theory-of-Mind"
+  authors:
+  - given-names: Mo
+    family-names: Yu
+  - given-names: Shunchi
+    family-names: Zhang
+  - given-names: Qiujing
+    family-names: Wang
+  - given-names: Yisi
+    family-names: Sang
+  - given-names: Kangsheng
+    family-names: Pu
+  - given-names: Zekai
+    family-names: Wei
+  - given-names: Han
+    family-names: Wang
+  - given-names: Liyan
+    family-names: Xu
+  - given-names: Jing
+    family-names: Li
+  - given-names: Yue
+    family-names: Yu
+  - given-names: Jie
+    family-names: Zhou
+  collection-title: "Proceedings of the 41st International Conference on Machine Learning (ICML)"
+  collection-type: proceedings
+  year: 2024
